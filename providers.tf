@@ -3,3 +3,7 @@ provider "aws" {
   region = var.region
   profile = var.profile
 }
+
+
+
+#made changes by avinash
